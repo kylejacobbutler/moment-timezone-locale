@@ -9,10 +9,10 @@ Previously installed moment packages need to be uninstalled.
 
 ```
 npm remove moment moment-timezone
+
+```
+```
 npm i @kylejacobbutler/moment-timezone-locale
-```
-```
-jspm i npm: @kylejacobbutler/moment-timezone-locale
 ```
 
 ## Usage
