@@ -26,19 +26,19 @@ import moment from '@kylejacobbutler/moment-timezone-locale';
 ## Moment:
 
 ```javascript
-moment(2014-06-27).fromNow();
+moment(“2014-06-27”).fromNow();
 ```
 
 ## Locale:
 
 ```javascript
-moment(20120627).locale('de').fromNow();
+moment(“20120627”).locale('de').fromNow();
 ```
 
 ## Timezone:
 
 ```javascript
-moment(20120627T12:00:00Z).tz("America/Los_Angeles").format('ha z');
+moment(“20120627T12:00:00Z”).tz("America/Los_Angeles").format('ha z');
 ```
 
 
