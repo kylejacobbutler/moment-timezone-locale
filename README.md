@@ -1,4 +1,4 @@
-# moment-timezone-locale
+# moment-timezone-locale-es6
 
 ES6 Module of [momentjs](https://github.com/moment/moment) with locales and timezone bundled.
 
