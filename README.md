@@ -27,6 +27,6 @@ Locale:
 moment(20120627).locale('de').fromNow()
 
 Timezone:
-moment(2012-06-27T12:00:00Z).tz("America/Los_Angeles").format('ha z')
+moment(20120627T12:00:00Z).tz("America/Los_Angeles").format('ha z')
 
 ```
