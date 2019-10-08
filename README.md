@@ -1,15 +1,17 @@
 # moment-timezone-locale
 
-[momentjs](https://github.com/moment/moment) with locales and timezone bundled.
- ES6 compatabile.
+ES6 Module of [momentjs](https://github.com/moment/moment) with locales and timezone bundled.
+
 
 ## Installation
 
+Previously installed moment packages need to be uninstalled.
+
 ```
-npm i moment-timezone-locale
+npm i @kylejacobbutler/moment-timezone-locale
 ```
 ```
-jspm i npm:moment-timezone-locale
+jspm i npm: @kylejacobbutler/moment-timezone-locale
 ```
 
 ## Usage
@@ -17,8 +19,14 @@ jspm i npm:moment-timezone-locale
 ```javascript
 import moment from 'moment-timezone-locale';
 
-console.log( moment.fromNow() );
-console.log( moment.locale() );
-console.log( moment.tz() );
+
+Standard Usage:
+moment(2014-06-27).fromNow()
+
+Locale:
+moment(20120627).locale('de').fromNow()
+
+Timezone:
+moment(2012-06-27T12:00:00Z).tz("America/Los_Angeles").format('ha z')
 
 ```
