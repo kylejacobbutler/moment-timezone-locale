@@ -8,6 +8,7 @@ ES6 Module of [momentjs](https://github.com/moment/moment) with locales and time
 Previously installed moment packages need to be uninstalled.
 
 ```
+npm remove moment moment-timezone
 npm i @kylejacobbutler/moment-timezone-locale
 ```
 ```
