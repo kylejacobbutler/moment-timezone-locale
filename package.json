@@ -1,0 +1,27 @@
+{
+  "name": "moment-timezone-locale",
+  "version": "0.0.2",
+  "description": "Moment with Timezone and Locale",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kylejacobbutler/moment-timezone-locale.git"
+  },
+  "keywords": [
+    "moment",
+    "moment-es6",
+    "moment-timezone-locale",
+    "moment-timezone",
+    "moment-locale",
+    "moment-with-locales",
+  ],
+  "author": "kylejacobbutler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kylejacobbutler/moment-timezone-locale/issues"
+  },
+  "homepage": "https://github.com/kylejacobbutler/moment-timezone-locale#readme",
+  "peerDependencies": {
+
+  }
+}
