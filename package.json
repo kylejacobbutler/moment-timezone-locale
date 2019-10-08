@@ -1,27 +1,52 @@
 {
-  "name": "moment-timezone-locale",
-  "version": "0.0.2",
-  "description": "Moment with Timezone and Locale",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/kylejacobbutler/moment-timezone-locale.git"
+  "_from": "@kylejacobbutler/moment-timezone-locale@^1.0.15",
+  "_id": "@kylejacobbutler/moment-timezone-locale@1.0.17",
+  "_inBundle": false,
+  "_integrity": "sha512-cQ/KPTdt6wayUkY6HqaR5wq7fOmtiHbWgFDfiV/+p6RnhgdawXQOcw2IJPlH1+2PmDVGv/98IJ8Ir746EeAlhg==",
+  "_location": "/@kylejacobbutler/moment-timezone-locale",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@kylejacobbutler/moment-timezone-locale@^1.0.15",
+    "name": "@kylejacobbutler/moment-timezone-locale",
+    "escapedName": "@kylejacobbutler%2fmoment-timezone-locale",
+    "scope": "@kylejacobbutler",
+    "rawSpec": "^1.0.15",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.15"
   },
-  "keywords": [
-    "moment",
-    "moment-es6",
-    "moment-timezone-locale",
-    "moment-timezone",
-    "moment-locale",
-    "moment-with-locales",
+  "_requiredBy": [
+    "#USER",
+    "/"
   ],
-  "author": "kylejacobbutler",
-  "license": "MIT",
+  "_resolved": "https://registry.npmjs.org/@kylejacobbutler/moment-timezone-locale/-/moment-timezone-locale-1.0.17.tgz",
+  "_shasum": "da38a4c3862e98fdac0ff3945276fb9723b0825d",
+  "_spec": "@kylejacobbutler/moment-timezone-locale@^1.0.15",
+  "_where": "/Users/kylebutler/Desktop/momenttest3",
+  "author": {
+    "name": "Kyle Jacob Jutler"
+  },
   "bugs": {
     "url": "https://github.com/kylejacobbutler/moment-timezone-locale/issues"
   },
+  "bundleDependencies": true,
+  "deprecated": false,
+  "description": "Moment with Timezone and Locale bundled together.",
+  "directories": {
+    "lib": "lib"
+  },
   "homepage": "https://github.com/kylejacobbutler/moment-timezone-locale#readme",
-  "peerDependencies": {
-
-  }
+  "keywords": [
+    "moment-timezone-locale"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "@kylejacobbutler/moment-timezone-locale",
+  "private": false,
+  "repository ": {
+    "type": "git",
+    "url": "git+https://github.com/kylejacobbutler/moment-timezone-locale.git"
+  },
+  "version": "1.0.18"
 }

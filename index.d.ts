@@ -1,4 +1,4 @@
 declare module "moment-timezone-locale" {
-    import * as moment from "./lib/moment-timezone.js";
+    import * as moment from "moment";
     export default moment;
 }
