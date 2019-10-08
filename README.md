@@ -18,8 +18,6 @@ npm i @kylejacobbutler/moment-timezone-locale
 ## Usage
 
 ```javascript
-import moment from 'moment-timezone-locale';
-or
 import moment from '@kylejacobbutler/moment-timezone-locale';
 ```
 
