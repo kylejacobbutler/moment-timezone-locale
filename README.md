@@ -18,15 +18,15 @@ jspm i npm: @kylejacobbutler/moment-timezone-locale
 
 ```javascript
 import moment from 'moment-timezone-locale';
-
+```
 
 Standard Usage:
-moment(2014-06-27).fromNow()
+## moment(2014-06-27).fromNow()
 
 Locale:
-moment(20120627).locale('de').fromNow()
+## moment(20120627).locale('de').fromNow()
 
 Timezone:
-moment(20120627T12:00:00Z).tz("America/Los_Angeles").format('ha z')
+## moment(20120627T12:00:00Z).tz("America/Los_Angeles").format('ha z')
 
-```
+
