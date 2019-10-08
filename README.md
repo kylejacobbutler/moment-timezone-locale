@@ -1,6 +1,7 @@
 # moment-timezone-locale
 
-[momentjs](https://github.com/moment/moment) with locales and timezone with ES6 compatability.
+[momentjs](https://github.com/moment/moment) with locales and timezone bundled together.
+ES6 compatabile.
 
 ## Installation
 
